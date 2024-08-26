@@ -22,7 +22,7 @@ env\Scripts\activate
 
 ### Executar a API
 
-Para executar a nossa api, é necessario navegar até o nossa pasta 'api' usando o comando **cd api** (verifique que você ja estava no diretorio do projeto, use **pwd**) e após isso, execute o script usando python **api_fase01.py**
+Para executar a nossa api, é necessario navegar até o nossa pasta 'api' usando o comando **cd api** (verifique se você já no diretorio do projeto, use **pwd**) e após isso, execute o script usando python **api_fase01.py**
 
 Para verificar se foi executado com sucesso, vá até o endereço local http://localhost:5001/country
 
